@@ -2,6 +2,8 @@
 
 A quantum key-recovery attack on a 4-bit AES variant, built for CS558 Quantum Cryptography. The circuit runs Grover's algorithm to find the secret encryption key with **95.7% probability in just 3 iterations** — compared to the 8 classical guesses a brute-force search would average over 16 candidates.
 
+📰[Paper posted on my LinkedIn](https://www.linkedin.com/posts/avzaman_quantum-cryptography-grovers-search-on-ugcPost-7487522799453028352-gNI6/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF4kOP0BP6SbfPW_A43AkzKMEBHclWuWKfs)
+
 ---
 
 ## What this is
